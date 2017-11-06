@@ -44,8 +44,12 @@ nav{
 ul{
 	margin: auto;
 	padding-top: 3px;
+	
+	
 
 }
+li ul{
+	display: none;}
 
 li{
 	float: left;
